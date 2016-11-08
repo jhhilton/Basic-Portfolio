@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+
+font-size: 24px;
+line-height: 32px;
+
+}
+
+header {
+	font-size:24px;
+    height:80px;
+    background:#F0F0F0;
+    border:1px solid #CCC;
+}
+
+.contact{
+
+	float:left;
+	width: 70%;
+}
+
+.connect{
+
+float:left;
+width: 30%;
+
+}
+
+footer{
+
+clear:both;
+font-size: 12px;
+text-align:center;
+
+}
